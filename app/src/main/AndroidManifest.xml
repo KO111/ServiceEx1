@@ -18,9 +18,8 @@
         </activity>
 
         <service android:name=".TestService1" />
-        <service
-            android:name=".TestService2"
-            android:exported="false"></service>
+        <service android:name=".TestService2" />
+        <service android:name=".TestService3" />
     </application>
 
 </manifest>
